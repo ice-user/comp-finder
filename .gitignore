@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+latest.json
+competitions.ics
+nul
+refresh.log
